@@ -1,12 +1,12 @@
 ---
-title: Hi Hugo
-author: R package build
+title: Hello World
+author: Kitty Chen
 date: '2021-03-25'
 slug: hi-hugo
 categories: []
 tags: []
-subtitle: ''
-summary: ''
+subtitle: 'Testing testing testing'
+summary: 'Summary testing'
 authors: []
 lastmod: '2021-03-25T17:24:22-07:00'
 featured: no
